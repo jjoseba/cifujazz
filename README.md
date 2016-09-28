@@ -1,5 +1,9 @@
 # cifujazz
 
+Catalog exploration web-app for CifuJazz made with Django.
+
+http://cifujazz.org/
+
 ## License
 
 	CifuJazz is free software: you can redistribute it and/or modify
